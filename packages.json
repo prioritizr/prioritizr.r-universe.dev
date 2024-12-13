@@ -5,6 +5,7 @@
   },
   {
     "package": "prepr",
-    "url": "https://github.com/prioritizr/prepr"
+    "url": "https://github.com/prioritizr/prepr",
+    "branch": "debug-autoconf"
   }
 ]
