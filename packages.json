@@ -2,5 +2,9 @@
   {
     "package": "prioritizr",
     "url": "https://github.com/prioritizr/prioritizr"
+  },
+  {
+    "package": "prepr",
+    "url": "https://github.com/prioritizr/prepr"
   }
 ]
